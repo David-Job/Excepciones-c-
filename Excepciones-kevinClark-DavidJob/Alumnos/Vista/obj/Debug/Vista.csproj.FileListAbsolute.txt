@@ -1,0 +1,15 @@
+C:\Users\kevin clark\source\repos\Alumnos\Vista\bin\Debug\Vista.exe.config
+C:\Users\kevin clark\source\repos\Alumnos\Vista\bin\Debug\Vista.exe
+C:\Users\kevin clark\source\repos\Alumnos\Vista\bin\Debug\Vista.pdb
+C:\Users\kevin clark\source\repos\Alumnos\Vista\bin\Debug\Controlador.dll
+C:\Users\kevin clark\source\repos\Alumnos\Vista\bin\Debug\Modelo.dll
+C:\Users\kevin clark\source\repos\Alumnos\Vista\bin\Debug\MySql.Data.dll
+C:\Users\kevin clark\source\repos\Alumnos\Vista\bin\Debug\Controlador.pdb
+C:\Users\kevin clark\source\repos\Alumnos\Vista\bin\Debug\Modelo.pdb
+C:\Users\kevin clark\source\repos\Alumnos\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\kevin clark\source\repos\Alumnos\Vista\obj\Debug\Vista.Form1.resources
+C:\Users\kevin clark\source\repos\Alumnos\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\kevin clark\source\repos\Alumnos\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\kevin clark\source\repos\Alumnos\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\kevin clark\source\repos\Alumnos\Vista\obj\Debug\Vista.exe
+C:\Users\kevin clark\source\repos\Alumnos\Vista\obj\Debug\Vista.pdb

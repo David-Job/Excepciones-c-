@@ -1,0 +1,11 @@
+C:\Users\kevin clark\source\repos\Alumnos\Controlador\bin\Debug\netstandard2.0\Controlador.deps.json
+C:\Users\kevin clark\source\repos\Alumnos\Controlador\bin\Debug\netstandard2.0\Controlador.dll
+C:\Users\kevin clark\source\repos\Alumnos\Controlador\bin\Debug\netstandard2.0\Controlador.pdb
+C:\Users\kevin clark\source\repos\Alumnos\Controlador\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\kevin clark\source\repos\Alumnos\Controlador\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\kevin clark\source\repos\Alumnos\Controlador\obj\Debug\netstandard2.0\Controlador.csprojAssemblyReference.cache
+C:\Users\kevin clark\source\repos\Alumnos\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfoInputs.cache
+C:\Users\kevin clark\source\repos\Alumnos\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfo.cs
+C:\Users\kevin clark\source\repos\Alumnos\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.CopyComplete
+C:\Users\kevin clark\source\repos\Alumnos\Controlador\obj\Debug\netstandard2.0\Controlador.dll
+C:\Users\kevin clark\source\repos\Alumnos\Controlador\obj\Debug\netstandard2.0\Controlador.pdb

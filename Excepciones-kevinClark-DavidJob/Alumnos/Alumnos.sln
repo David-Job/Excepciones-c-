@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Controlador", "Controlador\Controlador.csproj", "{69246133-AFB3-4686-9554-1220CD27B89F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modelo", "Modelo\Modelo.csproj", "{671BEBF4-EC33-470B-B119-1A9E47907D1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{C141288C-4E5E-475C-B7C4-F64121764893}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69246133-AFB3-4686-9554-1220CD27B89F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69246133-AFB3-4686-9554-1220CD27B89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69246133-AFB3-4686-9554-1220CD27B89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69246133-AFB3-4686-9554-1220CD27B89F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{671BEBF4-EC33-470B-B119-1A9E47907D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671BEBF4-EC33-470B-B119-1A9E47907D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671BEBF4-EC33-470B-B119-1A9E47907D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671BEBF4-EC33-470B-B119-1A9E47907D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C141288C-4E5E-475C-B7C4-F64121764893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C141288C-4E5E-475C-B7C4-F64121764893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C141288C-4E5E-475C-B7C4-F64121764893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C141288C-4E5E-475C-B7C4-F64121764893}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {369E09B8-ED6F-4DA7-B09E-B65CB595ABA3}
+	EndGlobalSection
+EndGlobal
