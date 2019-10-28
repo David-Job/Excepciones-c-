@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <Reference Include="MySql.Data">
-      <HintPath>..\..\..\..\Desktop\librerias\MySql.Data.dll</HintPath>
+      <HintPath>..\MySQL Connector\MySql.Data.dll</HintPath>
     </Reference>
   </ItemGroup>
 

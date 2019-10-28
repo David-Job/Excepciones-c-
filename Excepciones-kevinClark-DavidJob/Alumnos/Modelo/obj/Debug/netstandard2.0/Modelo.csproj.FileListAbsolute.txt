@@ -8,3 +8,13 @@ C:\Users\kevin clark\source\repos\Alumnos\Modelo\obj\Debug\netstandard2.0\Modelo
 C:\Users\kevin clark\source\repos\Alumnos\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
 C:\Users\kevin clark\source\repos\Alumnos\Modelo\bin\Debug\netstandard2.0\MySql.Data.dll
 C:\Users\kevin clark\source\repos\Alumnos\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CopyComplete
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Modelo\bin\Debug\netstandard2.0\MySql.Data.dll
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CopyComplete
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Modelo\obj\Debug\netstandard2.0\Modelo.pdb

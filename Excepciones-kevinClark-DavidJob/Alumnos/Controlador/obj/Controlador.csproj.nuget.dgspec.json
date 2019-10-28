@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kevin clark\\source\\repos\\Alumnos\\Controlador\\Controlador.csproj": {}
+    "E:\\Tarde\\djs\\Excepciones-c-\\Excepciones-kevinClark-DavidJob\\Alumnos\\Controlador\\Controlador.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kevin clark\\source\\repos\\Alumnos\\Controlador\\Controlador.csproj": {
+    "E:\\Tarde\\djs\\Excepciones-c-\\Excepciones-kevinClark-DavidJob\\Alumnos\\Controlador\\Controlador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevin clark\\source\\repos\\Alumnos\\Controlador\\Controlador.csproj",
+        "projectUniqueName": "E:\\Tarde\\djs\\Excepciones-c-\\Excepciones-kevinClark-DavidJob\\Alumnos\\Controlador\\Controlador.csproj",
         "projectName": "Controlador",
-        "projectPath": "C:\\Users\\kevin clark\\source\\repos\\Alumnos\\Controlador\\Controlador.csproj",
-        "packagesPath": "C:\\Users\\kevin clark\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevin clark\\source\\repos\\Alumnos\\Controlador\\obj\\",
+        "projectPath": "E:\\Tarde\\djs\\Excepciones-c-\\Excepciones-kevinClark-DavidJob\\Alumnos\\Controlador\\Controlador.csproj",
+        "packagesPath": "C:\\Users\\AlumnadoTarde\\.nuget\\packages\\",
+        "outputPath": "E:\\Tarde\\djs\\Excepciones-c-\\Excepciones-kevinClark-DavidJob\\Alumnos\\Controlador\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\kevin clark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AlumnadoTarde\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -31,8 +32,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\kevin clark\\source\\repos\\Alumnos\\Modelo\\Modelo.csproj": {
-                "projectPath": "C:\\Users\\kevin clark\\source\\repos\\Alumnos\\Modelo\\Modelo.csproj"
+              "E:\\Tarde\\djs\\Excepciones-c-\\Excepciones-kevinClark-DavidJob\\Alumnos\\Modelo\\Modelo.csproj": {
+                "projectPath": "E:\\Tarde\\djs\\Excepciones-c-\\Excepciones-kevinClark-DavidJob\\Alumnos\\Modelo\\Modelo.csproj"
               }
             }
           }
@@ -46,10 +47,6 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
-            "MySql.Data": {
-              "target": "Package",
-              "version": "[8.0.18, )"
-            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -71,20 +68,21 @@
         }
       }
     },
-    "C:\\Users\\kevin clark\\source\\repos\\Alumnos\\Modelo\\Modelo.csproj": {
+    "E:\\Tarde\\djs\\Excepciones-c-\\Excepciones-kevinClark-DavidJob\\Alumnos\\Modelo\\Modelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevin clark\\source\\repos\\Alumnos\\Modelo\\Modelo.csproj",
+        "projectUniqueName": "E:\\Tarde\\djs\\Excepciones-c-\\Excepciones-kevinClark-DavidJob\\Alumnos\\Modelo\\Modelo.csproj",
         "projectName": "Modelo",
-        "projectPath": "C:\\Users\\kevin clark\\source\\repos\\Alumnos\\Modelo\\Modelo.csproj",
-        "packagesPath": "C:\\Users\\kevin clark\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevin clark\\source\\repos\\Alumnos\\Modelo\\obj\\",
+        "projectPath": "E:\\Tarde\\djs\\Excepciones-c-\\Excepciones-kevinClark-DavidJob\\Alumnos\\Modelo\\Modelo.csproj",
+        "packagesPath": "C:\\Users\\AlumnadoTarde\\.nuget\\packages\\",
+        "outputPath": "E:\\Tarde\\djs\\Excepciones-c-\\Excepciones-kevinClark-DavidJob\\Alumnos\\Modelo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\kevin clark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AlumnadoTarde\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

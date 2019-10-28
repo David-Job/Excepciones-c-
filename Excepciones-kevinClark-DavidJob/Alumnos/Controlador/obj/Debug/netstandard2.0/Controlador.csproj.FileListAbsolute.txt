@@ -9,3 +9,15 @@ C:\Users\kevin clark\source\repos\Alumnos\Controlador\obj\Debug\netstandard2.0\C
 C:\Users\kevin clark\source\repos\Alumnos\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.CopyComplete
 C:\Users\kevin clark\source\repos\Alumnos\Controlador\obj\Debug\netstandard2.0\Controlador.dll
 C:\Users\kevin clark\source\repos\Alumnos\Controlador\obj\Debug\netstandard2.0\Controlador.pdb
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Controlador\bin\Debug\netstandard2.0\Controlador.deps.json
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Controlador\bin\Debug\netstandard2.0\Controlador.dll
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Controlador\bin\Debug\netstandard2.0\Controlador.pdb
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Controlador\bin\Debug\netstandard2.0\Modelo.dll
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Controlador\bin\Debug\netstandard2.0\MySql.Data.dll
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Controlador\bin\Debug\netstandard2.0\Modelo.pdb
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Controlador\obj\Debug\netstandard2.0\Controlador.csprojAssemblyReference.cache
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfoInputs.cache
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfo.cs
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.CopyComplete
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Controlador\obj\Debug\netstandard2.0\Controlador.dll
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Controlador\obj\Debug\netstandard2.0\Controlador.pdb

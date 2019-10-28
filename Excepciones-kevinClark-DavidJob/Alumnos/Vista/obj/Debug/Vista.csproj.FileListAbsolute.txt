@@ -13,3 +13,20 @@ C:\Users\kevin clark\source\repos\Alumnos\Vista\obj\Debug\Vista.csproj.GenerateR
 C:\Users\kevin clark\source\repos\Alumnos\Vista\obj\Debug\Vista.csproj.CopyComplete
 C:\Users\kevin clark\source\repos\Alumnos\Vista\obj\Debug\Vista.exe
 C:\Users\kevin clark\source\repos\Alumnos\Vista\obj\Debug\Vista.pdb
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Vista\bin\Debug\Vista.exe.config
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Vista\bin\Debug\Vista.exe
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Vista\bin\Debug\Vista.pdb
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Vista\bin\Debug\Vista.exe.CodeAnalysisLog.xml
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Vista\bin\Debug\Vista.exe.lastcodeanalysissucceeded
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Vista\bin\Debug\Controlador.dll
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Vista\bin\Debug\Modelo.dll
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Vista\bin\Debug\MySql.Data.dll
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Vista\bin\Debug\Controlador.pdb
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Vista\bin\Debug\Modelo.pdb
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Vista\obj\Debug\Vista.FormAlumnos.resources
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Vista\obj\Debug\Vista.Properties.Resources.resources
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Vista\obj\Debug\Vista.csproj.CopyComplete
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Vista\obj\Debug\Vista.exe
+E:\Tarde\djs\Excepciones-c-\Excepciones-kevinClark-DavidJob\Alumnos\Vista\obj\Debug\Vista.pdb
